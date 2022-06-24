@@ -26,8 +26,8 @@ Discord: dobatovkin#8520
 
 - **Belarusian State University (BSU)**, Aerospace mapping - 2019-2023
 
-- **Lomonosov Moscow State University**, Mapping and Geographical Informational Systems - Jan-Jun 2022
+- **Lomonosov Moscow State University**, Mapping and Geographical Informational Systems - Jan-Jun 2022 *(exchange student)*
 
 ## Summary
 
-Passionate developer making his first steps in frontend programming, who enjoys making himself familiar with complex systems and solve problems in a rational way. 
+Passionate developer making his first steps in frontend programming, who enjoys making himself familiar with complex systems and solve problems in a rational way.
