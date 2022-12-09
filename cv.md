@@ -22,7 +22,6 @@ Discord: dobatovkin#8520
 
 <sup>Writing custom ArcGIS toolboxes in Python (ArcPy), testing and supporting. Developing and implementing a method of searching depressions in a digital elevation model</sup>
 
-
 ## Edication
 
 - **Belarusian State University (BSU)**, Aerospace mapping - 2019-2023
